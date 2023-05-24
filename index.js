@@ -9,7 +9,7 @@ greenCharacter.style.bottom = '100px'
 document.body.append(greenCharacter)
 
 let pineTree = document.createElement('img')
-pineTree.scr = 'assets/pine-tree.png'
+pineTree.src = 'assets/pine-tree.png'
 pineTree.style.position = 'fixed'
 pineTree.style.left = '450px'
 pineTree.style.bottom = '200px'
